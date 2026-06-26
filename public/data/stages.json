@@ -1,0 +1,2596 @@
+{
+  "stages": [
+    {
+      "id": "normal-1-1",
+      "sourceKey": 1101,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Pasture",
+        "ja": "牧草地"
+      },
+      "level": 1,
+      "boxes": [
+        "normal_monster_box_1_910011",
+        "stage_boss_box_4_920011"
+      ],
+      "dropRates": {
+        "normal_monster_box_1_910011": 160.0,
+        "stage_boss_box_4_920011": 1000.0
+      }
+    },
+    {
+      "id": "normal-1-2",
+      "sourceKey": 1102,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Shadow Meadow",
+        "ja": "影の草原"
+      },
+      "level": 2,
+      "boxes": [
+        "normal_monster_box_1_910011",
+        "stage_boss_box_4_920011"
+      ],
+      "dropRates": {
+        "normal_monster_box_1_910011": 160.0,
+        "stage_boss_box_4_920011": 1000.0
+      }
+    },
+    {
+      "id": "normal-1-3",
+      "sourceKey": 1103,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Wasteland",
+        "ja": "荒れ地"
+      },
+      "level": 3,
+      "boxes": [
+        "normal_monster_box_1_910011",
+        "stage_boss_box_4_920011"
+      ],
+      "dropRates": {
+        "normal_monster_box_1_910011": 160.0,
+        "stage_boss_box_4_920011": 1000.0
+      }
+    },
+    {
+      "id": "normal-1-4",
+      "sourceKey": 1104,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Eerie Canyon",
+        "ja": "不気味な峡谷"
+      },
+      "level": 5,
+      "boxes": [
+        "normal_monster_box_2_910051",
+        "stage_boss_box_5_920051"
+      ],
+      "dropRates": {
+        "normal_monster_box_2_910051": 120.0,
+        "stage_boss_box_5_920051": 1000.0
+      }
+    },
+    {
+      "id": "normal-1-5",
+      "sourceKey": 1105,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Burning Village Entrance",
+        "ja": "燃える村の入口"
+      },
+      "level": 6,
+      "boxes": [
+        "normal_monster_box_2_910051",
+        "stage_boss_box_5_920051"
+      ],
+      "dropRates": {
+        "normal_monster_box_2_910051": 120.0,
+        "stage_boss_box_5_920051": 800.0
+      }
+    },
+    {
+      "id": "normal-1-6",
+      "sourceKey": 1106,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Rumstreet Square",
+        "ja": "ラムストリート広場"
+      },
+      "level": 7,
+      "boxes": [
+        "normal_monster_box_2_910051",
+        "stage_boss_box_5_920051"
+      ],
+      "dropRates": {
+        "normal_monster_box_2_910051": 80.0,
+        "stage_boss_box_5_920051": 800.0
+      }
+    },
+    {
+      "id": "normal-1-7",
+      "sourceKey": 1107,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "City Outskirts",
+        "ja": "街の外れ"
+      },
+      "level": 8,
+      "boxes": [
+        "normal_monster_box_2_910051",
+        "stage_boss_box_5_920051"
+      ],
+      "dropRates": {
+        "normal_monster_box_2_910051": 80.0,
+        "stage_boss_box_5_920051": 600.0
+      }
+    },
+    {
+      "id": "normal-1-8",
+      "sourceKey": 1108,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Cemetery",
+        "ja": "墓地"
+      },
+      "level": 10,
+      "boxes": [
+        "normal_monster_box_3_910101",
+        "stage_boss_box_7_920101"
+      ],
+      "dropRates": {
+        "normal_monster_box_3_910101": 30.0,
+        "stage_boss_box_7_920101": 400.0
+      }
+    },
+    {
+      "id": "normal-1-9",
+      "sourceKey": 1109,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Cursed Land",
+        "ja": "呪われた大地"
+      },
+      "level": 11,
+      "boxes": [
+        "normal_monster_box_3_910101",
+        "stage_boss_box_7_920101"
+      ],
+      "dropRates": {
+        "normal_monster_box_3_910101": 30.0,
+        "stage_boss_box_7_920101": 400.0
+      }
+    },
+    {
+      "id": "normal-1-10",
+      "sourceKey": 1110,
+      "difficulty": "Normal",
+      "act": 1,
+      "stage": "1-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Throne of Darkness",
+        "ja": "闇の玉座"
+      },
+      "level": 12,
+      "boxes": [
+        "act_boss_box_1_930101"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "normal-2-1",
+      "sourceKey": 1201,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Oasis Road",
+        "ja": "オアシスの道"
+      },
+      "level": 13,
+      "boxes": [
+        "normal_monster_box_3_910101",
+        "stage_boss_box_7_920101"
+      ],
+      "dropRates": {
+        "normal_monster_box_3_910101": 30.0,
+        "stage_boss_box_7_920101": 400.0
+      }
+    },
+    {
+      "id": "normal-2-2",
+      "sourceKey": 1202,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sandstorm Valley",
+        "ja": "砂嵐の谷"
+      },
+      "level": 14,
+      "boxes": [
+        "normal_monster_box_3_910101",
+        "stage_boss_box_7_920101"
+      ],
+      "dropRates": {
+        "normal_monster_box_3_910101": 30.0,
+        "stage_boss_box_7_920101": 400.0
+      }
+    },
+    {
+      "id": "normal-2-3",
+      "sourceKey": 1203,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Desert Underground Cave",
+        "ja": "砂漠地下洞窟"
+      },
+      "level": 15,
+      "boxes": [
+        "normal_monster_box_lv15_910151",
+        "stage_boss_box_lv15_920151"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv15_910151": 25.0,
+        "stage_boss_box_lv15_920151": 300.0
+      }
+    },
+    {
+      "id": "normal-2-4",
+      "sourceKey": 1204,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Bug Nest",
+        "ja": "虫の巣"
+      },
+      "level": 16,
+      "boxes": [
+        "normal_monster_box_lv15_910151",
+        "stage_boss_box_lv15_920151"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv15_910151": 25.0,
+        "stage_boss_box_lv15_920151": 300.0
+      }
+    },
+    {
+      "id": "normal-2-5",
+      "sourceKey": 1205,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Scorching Dunes",
+        "ja": "灼熱の砂丘"
+      },
+      "level": 17,
+      "boxes": [
+        "normal_monster_box_lv15_910151",
+        "stage_boss_box_lv15_920151"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv15_910151": 25.0,
+        "stage_boss_box_lv15_920151": 300.0
+      }
+    },
+    {
+      "id": "normal-2-6",
+      "sourceKey": 1206,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sunset Ruins",
+        "ja": "夕暮れの廃墟"
+      },
+      "level": 18,
+      "boxes": [
+        "normal_monster_box_lv15_910151",
+        "stage_boss_box_lv15_920151"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv15_910151": 25.0,
+        "stage_boss_box_lv15_920151": 300.0
+      }
+    },
+    {
+      "id": "normal-2-7",
+      "sourceKey": 1207,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Midnight Sands",
+        "ja": "真夜中の砂漠"
+      },
+      "level": 19,
+      "boxes": [
+        "normal_monster_box_lv15_910151",
+        "stage_boss_box_lv15_920151"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv15_910151": 25.0,
+        "stage_boss_box_lv15_920151": 300.0
+      }
+    },
+    {
+      "id": "normal-2-8",
+      "sourceKey": 1208,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sacred Tomb",
+        "ja": "神聖なる墓"
+      },
+      "level": 20,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-2-9",
+      "sourceKey": 1209,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Pharaoh's Crypt",
+        "ja": "ファラオの墓室"
+      },
+      "level": 21,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-2-10",
+      "sourceKey": 1210,
+      "difficulty": "Normal",
+      "act": 2,
+      "stage": "2-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Pharaoh's Underchannel",
+        "ja": "ファラオの地下水路"
+      },
+      "level": 22,
+      "boxes": [
+        "act_boss_box_lv20_930201"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "normal-3-1",
+      "sourceKey": 1301,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Snowbound Outpost",
+        "ja": "雪原の前哨地"
+      },
+      "level": 23,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-3-2",
+      "sourceKey": 1302,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Frozen Battlefield",
+        "ja": "凍結した戦場"
+      },
+      "level": 24,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-3-3",
+      "sourceKey": 1303,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Glacial Cave Entrance",
+        "ja": "氷河洞窟の入口"
+      },
+      "level": 25,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-3-4",
+      "sourceKey": 1304,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Frozen Glacier Cavern",
+        "ja": "凍りつく氷河洞窟"
+      },
+      "level": 26,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-3-5",
+      "sourceKey": 1305,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Hell Gate",
+        "ja": "地獄の関門"
+      },
+      "level": 27,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-3-6",
+      "sourceKey": 1306,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Burning Ravine",
+        "ja": "燃える峡谷"
+      },
+      "level": 28,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-3-7",
+      "sourceKey": 1307,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Plains of Torment",
+        "ja": "苦痛の平原"
+      },
+      "level": 29,
+      "boxes": [
+        "normal_monster_box_lv20_910201",
+        "stage_boss_box_lv20_920201"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv20_910201": 20.0,
+        "stage_boss_box_lv20_920201": 200.0
+      }
+    },
+    {
+      "id": "normal-3-8",
+      "sourceKey": 1308,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Citadel of Ruin",
+        "ja": "破滅の要塞"
+      },
+      "level": 30,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 20.0,
+        "stage_boss_box_lv30_920301": 200.0
+      }
+    },
+    {
+      "id": "normal-3-9",
+      "sourceKey": 1309,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Core of the Abyss",
+        "ja": "深淵の中心"
+      },
+      "level": 31,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 20.0,
+        "stage_boss_box_lv30_920301": 200.0
+      }
+    },
+    {
+      "id": "normal-3-10",
+      "sourceKey": 1310,
+      "difficulty": "Normal",
+      "act": 3,
+      "stage": "3-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Hell Command Chamber",
+        "ja": "地獄の執務室"
+      },
+      "level": 32,
+      "boxes": [
+        "act_boss_box_lv30_930301"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "nightmare-1-1",
+      "sourceKey": 2101,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Pasture",
+        "ja": "牧草地"
+      },
+      "level": 33,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 15.0,
+        "stage_boss_box_lv30_920301": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-2",
+      "sourceKey": 2102,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Shadow Meadow",
+        "ja": "影の草原"
+      },
+      "level": 34,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 15.0,
+        "stage_boss_box_lv30_920301": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-3",
+      "sourceKey": 2103,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Wasteland",
+        "ja": "荒れ地"
+      },
+      "level": 35,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 15.0,
+        "stage_boss_box_lv30_920301": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-4",
+      "sourceKey": 2104,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Eerie Canyon",
+        "ja": "不気味な峡谷"
+      },
+      "level": 35,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 15.0,
+        "stage_boss_box_lv30_920301": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-5",
+      "sourceKey": 2105,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Burning Village Entrance",
+        "ja": "燃える村の入口"
+      },
+      "level": 36,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 15.0,
+        "stage_boss_box_lv30_920301": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-6",
+      "sourceKey": 2106,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Rumstreet Square",
+        "ja": "ラムストリート広場"
+      },
+      "level": 37,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 15.0,
+        "stage_boss_box_lv30_920301": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-7",
+      "sourceKey": 2107,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "City Outskirts",
+        "ja": "街の外れ"
+      },
+      "level": 38,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 15.0,
+        "stage_boss_box_lv30_920301": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-8",
+      "sourceKey": 2108,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Cemetery",
+        "ja": "墓地"
+      },
+      "level": 39,
+      "boxes": [
+        "normal_monster_box_lv30_910301",
+        "stage_boss_box_lv30_920301"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv30_910301": 15.0,
+        "stage_boss_box_lv30_920301": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-9",
+      "sourceKey": 2109,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Cursed Land",
+        "ja": "呪われた大地"
+      },
+      "level": 40,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-1-10",
+      "sourceKey": 2110,
+      "difficulty": "Nightmare",
+      "act": 1,
+      "stage": "1-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Throne of Darkness",
+        "ja": "闇の玉座"
+      },
+      "level": 40,
+      "boxes": [
+        "act_boss_box_lv40_930401"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "nightmare-2-1",
+      "sourceKey": 2201,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Oasis Road",
+        "ja": "オアシスの道"
+      },
+      "level": 41,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-2",
+      "sourceKey": 2202,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sandstorm Valley",
+        "ja": "砂嵐の谷"
+      },
+      "level": 41,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-3",
+      "sourceKey": 2203,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Desert Underground Cave",
+        "ja": "砂漠地下洞窟"
+      },
+      "level": 42,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-4",
+      "sourceKey": 2204,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Bug Nest",
+        "ja": "虫の巣"
+      },
+      "level": 42,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-5",
+      "sourceKey": 2205,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Scorching Dunes",
+        "ja": "灼熱の砂丘"
+      },
+      "level": 43,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-6",
+      "sourceKey": 2206,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sunset Ruins",
+        "ja": "夕暮れの廃墟"
+      },
+      "level": 43,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-7",
+      "sourceKey": 2207,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Midnight Sands",
+        "ja": "真夜中の砂漠"
+      },
+      "level": 44,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-8",
+      "sourceKey": 2208,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sacred Tomb",
+        "ja": "神聖なる墓"
+      },
+      "level": 44,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-9",
+      "sourceKey": 2209,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Pharaoh's Crypt",
+        "ja": "ファラオの墓室"
+      },
+      "level": 45,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-2-10",
+      "sourceKey": 2210,
+      "difficulty": "Nightmare",
+      "act": 2,
+      "stage": "2-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Pharaoh's Underchannel",
+        "ja": "ファラオの地下水路"
+      },
+      "level": 45,
+      "boxes": [
+        "act_boss_box_lv45_930451"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "nightmare-3-1",
+      "sourceKey": 2301,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Snowbound Outpost",
+        "ja": "雪原の前哨地"
+      },
+      "level": 46,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-2",
+      "sourceKey": 2302,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Frozen Battlefield",
+        "ja": "凍結した戦場"
+      },
+      "level": 47,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-3",
+      "sourceKey": 2303,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Glacial Cave Entrance",
+        "ja": "氷河洞窟の入口"
+      },
+      "level": 48,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-4",
+      "sourceKey": 2304,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Frozen Glacier Cavern",
+        "ja": "凍りつく氷河洞窟"
+      },
+      "level": 49,
+      "boxes": [
+        "normal_monster_box_lv40_910401",
+        "stage_boss_box_lv40_920401"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv40_910401": 15.0,
+        "stage_boss_box_lv40_920401": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-5",
+      "sourceKey": 2305,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Hell Gate",
+        "ja": "地獄の関門"
+      },
+      "level": 50,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 15.0,
+        "stage_boss_box_lv50_920501": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-6",
+      "sourceKey": 2306,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Burning Ravine",
+        "ja": "燃える峡谷"
+      },
+      "level": 50,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 15.0,
+        "stage_boss_box_lv50_920501": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-7",
+      "sourceKey": 2307,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Plains of Torment",
+        "ja": "苦痛の平原"
+      },
+      "level": 51,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 15.0,
+        "stage_boss_box_lv50_920501": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-8",
+      "sourceKey": 2308,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Citadel of Ruin",
+        "ja": "破滅の要塞"
+      },
+      "level": 51,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 15.0,
+        "stage_boss_box_lv50_920501": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-9",
+      "sourceKey": 2309,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Core of the Abyss",
+        "ja": "深淵の中心"
+      },
+      "level": 52,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 15.0,
+        "stage_boss_box_lv50_920501": 150.0
+      }
+    },
+    {
+      "id": "nightmare-3-10",
+      "sourceKey": 2310,
+      "difficulty": "Nightmare",
+      "act": 3,
+      "stage": "3-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Hell Command Chamber",
+        "ja": "地獄の執務室"
+      },
+      "level": 52,
+      "boxes": [
+        "act_boss_box_lv50_930501"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "hell-1-1",
+      "sourceKey": 3101,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Pasture",
+        "ja": "牧草地"
+      },
+      "level": 53,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-2",
+      "sourceKey": 3102,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Shadow Meadow",
+        "ja": "影の草原"
+      },
+      "level": 54,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-3",
+      "sourceKey": 3103,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Wasteland",
+        "ja": "荒れ地"
+      },
+      "level": 55,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-4",
+      "sourceKey": 3104,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Eerie Canyon",
+        "ja": "不気味な峡谷"
+      },
+      "level": 56,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-5",
+      "sourceKey": 3105,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Burning Village Entrance",
+        "ja": "燃える村の入口"
+      },
+      "level": 57,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-6",
+      "sourceKey": 3106,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Rumstreet Square",
+        "ja": "ラムストリート広場"
+      },
+      "level": 58,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-7",
+      "sourceKey": 3107,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "City Outskirts",
+        "ja": "街の外れ"
+      },
+      "level": 59,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-8",
+      "sourceKey": 3108,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Cemetery",
+        "ja": "墓地"
+      },
+      "level": 59,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-9",
+      "sourceKey": 3109,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Cursed Land",
+        "ja": "呪われた大地"
+      },
+      "level": 60,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-1-10",
+      "sourceKey": 3110,
+      "difficulty": "Hell",
+      "act": 1,
+      "stage": "1-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Throne of Darkness",
+        "ja": "闇の玉座"
+      },
+      "level": 60,
+      "boxes": [
+        "act_boss_box_lv60_930601"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "hell-2-1",
+      "sourceKey": 3201,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Oasis Road",
+        "ja": "オアシスの道"
+      },
+      "level": 61,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-2-2",
+      "sourceKey": 3202,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sandstorm Valley",
+        "ja": "砂嵐の谷"
+      },
+      "level": 62,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-2-3",
+      "sourceKey": 3203,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Desert Underground Cave",
+        "ja": "砂漠地下洞窟"
+      },
+      "level": 63,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-2-4",
+      "sourceKey": 3204,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Bug Nest",
+        "ja": "虫の巣"
+      },
+      "level": 64,
+      "boxes": [
+        "normal_monster_box_lv50_910501",
+        "stage_boss_box_lv50_920501"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv50_910501": 10.0,
+        "stage_boss_box_lv50_920501": 100.0
+      }
+    },
+    {
+      "id": "hell-2-5",
+      "sourceKey": 3205,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Scorching Dunes",
+        "ja": "灼熱の砂丘"
+      },
+      "level": 65,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-2-6",
+      "sourceKey": 3206,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sunset Ruins",
+        "ja": "夕暮れの廃墟"
+      },
+      "level": 66,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-2-7",
+      "sourceKey": 3207,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Midnight Sands",
+        "ja": "真夜中の砂漠"
+      },
+      "level": 67,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-2-8",
+      "sourceKey": 3208,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sacred Tomb",
+        "ja": "神聖なる墓"
+      },
+      "level": 68,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-2-9",
+      "sourceKey": 3209,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Pharaoh's Crypt",
+        "ja": "ファラオの墓室"
+      },
+      "level": 69,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-2-10",
+      "sourceKey": 3210,
+      "difficulty": "Hell",
+      "act": 2,
+      "stage": "2-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Pharaoh's Underchannel",
+        "ja": "ファラオの地下水路"
+      },
+      "level": 69,
+      "boxes": [
+        "act_boss_box_lv65_930651"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "hell-3-1",
+      "sourceKey": 3301,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Snowbound Outpost",
+        "ja": "雪原の前哨地"
+      },
+      "level": 70,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-2",
+      "sourceKey": 3302,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Frozen Battlefield",
+        "ja": "凍結した戦場"
+      },
+      "level": 71,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-3",
+      "sourceKey": 3303,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Glacial Cave Entrance",
+        "ja": "氷河洞窟の入口"
+      },
+      "level": 72,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-4",
+      "sourceKey": 3304,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Frozen Glacier Cavern",
+        "ja": "凍りつく氷河洞窟"
+      },
+      "level": 73,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-5",
+      "sourceKey": 3305,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Hell Gate",
+        "ja": "地獄の関門"
+      },
+      "level": 74,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-6",
+      "sourceKey": 3306,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Burning Ravine",
+        "ja": "燃える峡谷"
+      },
+      "level": 75,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-7",
+      "sourceKey": 3307,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Plains of Torment",
+        "ja": "苦痛の平原"
+      },
+      "level": 76,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-8",
+      "sourceKey": 3308,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Citadel of Ruin",
+        "ja": "破滅の要塞"
+      },
+      "level": 76,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-9",
+      "sourceKey": 3309,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Core of the Abyss",
+        "ja": "深淵の中心"
+      },
+      "level": 77,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 10.0,
+        "stage_boss_box_lv65_920651": 100.0
+      }
+    },
+    {
+      "id": "hell-3-10",
+      "sourceKey": 3310,
+      "difficulty": "Hell",
+      "act": 3,
+      "stage": "3-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Hell Command Chamber",
+        "ja": "地獄の執務室"
+      },
+      "level": 77,
+      "boxes": [
+        "act_boss_box_lv70_930701"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "torment-1-1",
+      "sourceKey": 4101,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Pasture",
+        "ja": "牧草地"
+      },
+      "level": 78,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 8.0,
+        "stage_boss_box_lv65_920651": 80.0
+      }
+    },
+    {
+      "id": "torment-1-2",
+      "sourceKey": 4102,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Shadow Meadow",
+        "ja": "影の草原"
+      },
+      "level": 79,
+      "boxes": [
+        "normal_monster_box_lv65_910651",
+        "stage_boss_box_lv65_920651"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv65_910651": 8.0,
+        "stage_boss_box_lv65_920651": 80.0
+      }
+    },
+    {
+      "id": "torment-1-3",
+      "sourceKey": 4103,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Wasteland",
+        "ja": "荒れ地"
+      },
+      "level": 80,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-1-4",
+      "sourceKey": 4104,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Eerie Canyon",
+        "ja": "不気味な峡谷"
+      },
+      "level": 81,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-1-5",
+      "sourceKey": 4105,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Burning Village Entrance",
+        "ja": "燃える村の入口"
+      },
+      "level": 82,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-1-6",
+      "sourceKey": 4106,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Rumstreet Square",
+        "ja": "ラムストリート広場"
+      },
+      "level": 83,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-1-7",
+      "sourceKey": 4107,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "City Outskirts",
+        "ja": "街の外れ"
+      },
+      "level": 84,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-1-8",
+      "sourceKey": 4108,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Cemetery",
+        "ja": "墓地"
+      },
+      "level": 84,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-1-9",
+      "sourceKey": 4109,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Cursed Land",
+        "ja": "呪われた大地"
+      },
+      "level": 85,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-1-10",
+      "sourceKey": 4110,
+      "difficulty": "Torment",
+      "act": 1,
+      "stage": "1-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Throne of Darkness",
+        "ja": "闇の玉座"
+      },
+      "level": 85,
+      "boxes": [
+        "act_boss_box_lv85_930851"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "torment-2-1",
+      "sourceKey": 4201,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Oasis Road",
+        "ja": "オアシスの道"
+      },
+      "level": 86,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-2",
+      "sourceKey": 4202,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sandstorm Valley",
+        "ja": "砂嵐の谷"
+      },
+      "level": 86,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-3",
+      "sourceKey": 4203,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Desert Underground Cave",
+        "ja": "砂漠地下洞窟"
+      },
+      "level": 87,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-4",
+      "sourceKey": 4204,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Bug Nest",
+        "ja": "虫の巣"
+      },
+      "level": 87,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-5",
+      "sourceKey": 4205,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Scorching Dunes",
+        "ja": "灼熱の砂丘"
+      },
+      "level": 88,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-6",
+      "sourceKey": 4206,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sunset Ruins",
+        "ja": "夕暮れの廃墟"
+      },
+      "level": 88,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-7",
+      "sourceKey": 4207,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Midnight Sands",
+        "ja": "真夜中の砂漠"
+      },
+      "level": 89,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-8",
+      "sourceKey": 4208,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Sacred Tomb",
+        "ja": "神聖なる墓"
+      },
+      "level": 89,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-9",
+      "sourceKey": 4209,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Pharaoh's Crypt",
+        "ja": "ファラオの墓室"
+      },
+      "level": 90,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-2-10",
+      "sourceKey": 4210,
+      "difficulty": "Torment",
+      "act": 2,
+      "stage": "2-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Pharaoh's Underchannel",
+        "ja": "ファラオの地下水路"
+      },
+      "level": 90,
+      "boxes": [
+        "act_boss_box_lv90_930901"
+      ],
+      "dropRates": {}
+    },
+    {
+      "id": "torment-3-1",
+      "sourceKey": 4301,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-1",
+      "stageNo": 1,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Snowbound Outpost",
+        "ja": "雪原の前哨地"
+      },
+      "level": 91,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-2",
+      "sourceKey": 4302,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-2",
+      "stageNo": 2,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Frozen Battlefield",
+        "ja": "凍結した戦場"
+      },
+      "level": 91,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-3",
+      "sourceKey": 4303,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-3",
+      "stageNo": 3,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Glacial Cave Entrance",
+        "ja": "氷河洞窟の入口"
+      },
+      "level": 92,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-4",
+      "sourceKey": 4304,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-4",
+      "stageNo": 4,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Frozen Glacier Cavern",
+        "ja": "凍りつく氷河洞窟"
+      },
+      "level": 92,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-5",
+      "sourceKey": 4305,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-5",
+      "stageNo": 5,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Hell Gate",
+        "ja": "地獄の関門"
+      },
+      "level": 93,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-6",
+      "sourceKey": 4306,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-6",
+      "stageNo": 6,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Burning Ravine",
+        "ja": "燃える峡谷"
+      },
+      "level": 93,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-7",
+      "sourceKey": 4307,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-7",
+      "stageNo": 7,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Plains of Torment",
+        "ja": "苦痛の平原"
+      },
+      "level": 94,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-8",
+      "sourceKey": 4308,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-8",
+      "stageNo": 8,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Citadel of Ruin",
+        "ja": "破滅の要塞"
+      },
+      "level": 94,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-9",
+      "sourceKey": 4309,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-9",
+      "stageNo": 9,
+      "stageType": "NORMAL",
+      "names": {
+        "en": "Core of the Abyss",
+        "ja": "深淵の中心"
+      },
+      "level": 95,
+      "boxes": [
+        "normal_monster_box_lv80_910801",
+        "stage_boss_box_lv80_920801"
+      ],
+      "dropRates": {
+        "normal_monster_box_lv80_910801": 8.0,
+        "stage_boss_box_lv80_920801": 80.0
+      }
+    },
+    {
+      "id": "torment-3-10",
+      "sourceKey": 4310,
+      "difficulty": "Torment",
+      "act": 3,
+      "stage": "3-10",
+      "stageNo": 10,
+      "stageType": "ACTBOSS",
+      "names": {
+        "en": "Hell Command Chamber",
+        "ja": "地獄の執務室"
+      },
+      "level": 95,
+      "boxes": [
+        "act_boss_box_lv90_930901"
+      ],
+      "dropRates": {}
+    }
+  ]
+}

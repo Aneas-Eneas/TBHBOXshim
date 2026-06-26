@@ -1,0 +1,29 @@
+{
+  "name": "tbh-chest-simulator",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --configLoader native",
+    "build": "tsc -b && vite build --configLoader native",
+    "preview": "vite preview",
+    "extract:game-data": "node scripts/run_game_data_extract.mjs",
+    "update:data": "node scripts/run_game_data_extract.mjs --extract-images --overwrite-images --prune-images"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-react": "^4.6.0",
+    "i18next": "^25.2.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-i18next": "^15.5.3",
+    "react-router-dom": "^7.6.2",
+    "tailwindcss": "^4.1.11",
+    "vite": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "~5.8.3"
+  }
+}

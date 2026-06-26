@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-06-26T11:10:42+00:00",
+  "source": "local_game_files",
+  "gameDir": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\TaskbarHero",
+  "gameVersion": "v1.00.21",
+  "unityAssetsFile": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\TaskbarHero\\TaskBarHero_Data\\sharedassets0.assets",
+  "textAssets": {
+    "DropInfoData": {
+      "bytes": 371595,
+      "rows": 6023
+    },
+    "GearInfoData": {
+      "bytes": 426368,
+      "rows": 5760
+    },
+    "ItemGroupInfoData": {
+      "bytes": 62805,
+      "rows": 1881
+    },
+    "ItemInfoData": {
+      "bytes": 626200,
+      "rows": 5944
+    },
+    "MaterialInfoData": {
+      "bytes": 2980,
+      "rows": 125
+    },
+    "StageInfoData": {
+      "bytes": 19471,
+      "rows": 120
+    }
+  },
+  "savedItems": 5117,
+  "savedChests": 59,
+  "savedStages": 120,
+  "dropRows": 6023,
+  "dropRowsUsed": 12640,
+  "dropRowsSkipped": 0,
+  "missingRewardItems": {},
+  "imageMapping": {
+    "mode": "game_sprite_export",
+    "exported": 458,
+    "linkedItems": 5117,
+    "uniqueSprites": 458,
+    "skippedExisting": 0,
+    "missingSprites": 0,
+    "missingSpriteNames": [],
+    "note": "Game item icon references are preserved as sourceIconPath. Use --extract-images to export unique matching game sprites to public/assets/items/icons/{sourceIconPath}.png."
+  },
+  "localization": {
+    "englishKeys": 1853,
+    "japaneseKeys": 1853
+  }
+}

@@ -1,0 +1,2945 @@
+{
+  "items": [
+    {
+      "id": "110001",
+      "name": "Minor Ruby",
+      "names": {
+        "en": "Minor Ruby",
+        "ja": "スモールルビー"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1100011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_110001.png",
+      "sourceIconPath": "Item_110001",
+      "source_url": "game://item/110001"
+    },
+    {
+      "id": "110002",
+      "name": "Minor Sapphire",
+      "names": {
+        "en": "Minor Sapphire",
+        "ja": "マイナーサファイア"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1100021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_110002.png",
+      "sourceIconPath": "Item_110002",
+      "source_url": "game://item/110002"
+    },
+    {
+      "id": "110003",
+      "name": "Minor Topaz",
+      "names": {
+        "en": "Minor Topaz",
+        "ja": "マイナートパーズ"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1100031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_110003.png",
+      "sourceIconPath": "Item_110003",
+      "source_url": "game://item/110003"
+    },
+    {
+      "id": "110004",
+      "name": "Minor Emerald",
+      "names": {
+        "en": "Minor Emerald",
+        "ja": "スモールエメラルド"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1100041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_110004.png",
+      "sourceIconPath": "Item_110004",
+      "source_url": "game://item/110004"
+    },
+    {
+      "id": "110005",
+      "name": "Minor Amethyst",
+      "names": {
+        "en": "Minor Amethyst",
+        "ja": "マイナーアメジスト"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1100051"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_110005.png",
+      "sourceIconPath": "Item_110005",
+      "source_url": "game://item/110005"
+    },
+    {
+      "id": "111001",
+      "name": "Obsidian Shard",
+      "names": {
+        "en": "Obsidian Shard",
+        "ja": "黒曜石の破片"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1110011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_111001.png",
+      "sourceIconPath": "Item_111001",
+      "source_url": "game://item/111001"
+    },
+    {
+      "id": "111002",
+      "name": "Coral Piece",
+      "names": {
+        "en": "Coral Piece",
+        "ja": "珊瑚の欠片"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1110021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_111002.png",
+      "sourceIconPath": "Item_111002",
+      "source_url": "game://item/111002"
+    },
+    {
+      "id": "111003",
+      "name": "Jade Stone",
+      "names": {
+        "en": "Jade Stone",
+        "ja": "翡翠石"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1110031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_111003.png",
+      "sourceIconPath": "Item_111003",
+      "source_url": "game://item/111003"
+    },
+    {
+      "id": "111004",
+      "name": "Amber Gem",
+      "names": {
+        "en": "Amber Gem",
+        "ja": "アンバージェム"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1110041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_111004.png",
+      "sourceIconPath": "Item_111004",
+      "source_url": "game://item/111004"
+    },
+    {
+      "id": "112001",
+      "name": "Ruby",
+      "names": {
+        "en": "Ruby",
+        "ja": "ルビー"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1120011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_112001.png",
+      "sourceIconPath": "Item_112001",
+      "source_url": "game://item/112001"
+    },
+    {
+      "id": "112002",
+      "name": "Sapphire",
+      "names": {
+        "en": "Sapphire",
+        "ja": "サファイア"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1120021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_112002.png",
+      "sourceIconPath": "Item_112002",
+      "source_url": "game://item/112002"
+    },
+    {
+      "id": "112003",
+      "name": "Topaz",
+      "names": {
+        "en": "Topaz",
+        "ja": "トパーズ"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1120031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_112003.png",
+      "sourceIconPath": "Item_112003",
+      "source_url": "game://item/112003"
+    },
+    {
+      "id": "112004",
+      "name": "Emerald",
+      "names": {
+        "en": "Emerald",
+        "ja": "エメラルド"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1120041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_112004.png",
+      "sourceIconPath": "Item_112004",
+      "source_url": "game://item/112004"
+    },
+    {
+      "id": "112005",
+      "name": "Amethyst",
+      "names": {
+        "en": "Amethyst",
+        "ja": "アメジスト"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1120051"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_112005.png",
+      "sourceIconPath": "Item_112005",
+      "source_url": "game://item/112005"
+    },
+    {
+      "id": "113001",
+      "name": "Crystal Quartz",
+      "names": {
+        "en": "Crystal Quartz",
+        "ja": "クリスタルクォーツ"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1130011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_113001.png",
+      "sourceIconPath": "Item_113001",
+      "source_url": "game://item/113001"
+    },
+    {
+      "id": "113002",
+      "name": "Pearl",
+      "names": {
+        "en": "Pearl",
+        "ja": "真珠"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1130021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_113002.png",
+      "sourceIconPath": "Item_113002",
+      "source_url": "game://item/113002"
+    },
+    {
+      "id": "113003",
+      "name": "Turquoise",
+      "names": {
+        "en": "Turquoise",
+        "ja": "ターコイズ"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1130031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_113003.png",
+      "sourceIconPath": "Item_113003",
+      "source_url": "game://item/113003"
+    },
+    {
+      "id": "113004",
+      "name": "Garnet",
+      "names": {
+        "en": "Garnet",
+        "ja": "ガーネット"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1130041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_113004.png",
+      "sourceIconPath": "Item_113004",
+      "source_url": "game://item/113004"
+    },
+    {
+      "id": "114001",
+      "name": "Diamond",
+      "names": {
+        "en": "Diamond",
+        "ja": "ダイヤモンド"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1140011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_114001.png",
+      "sourceIconPath": "Item_114001",
+      "source_url": "game://item/114001"
+    },
+    {
+      "id": "114002",
+      "name": "Opal",
+      "names": {
+        "en": "Opal",
+        "ja": "オパール"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1140021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_114002.png",
+      "sourceIconPath": "Item_114002",
+      "source_url": "game://item/114002"
+    },
+    {
+      "id": "114003",
+      "name": "Lapis Lazuli",
+      "names": {
+        "en": "Lapis Lazuli",
+        "ja": "ラピスラズリ"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1140031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_114003.png",
+      "sourceIconPath": "Item_114003",
+      "source_url": "game://item/114003"
+    },
+    {
+      "id": "114004",
+      "name": "Black Pearl",
+      "names": {
+        "en": "Black Pearl",
+        "ja": "ブラックパール"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1140041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_114004.png",
+      "sourceIconPath": "Item_114004",
+      "source_url": "game://item/114004"
+    },
+    {
+      "id": "115001",
+      "name": "Arcane Crystal",
+      "names": {
+        "en": "Arcane Crystal",
+        "ja": "アーケインクリスタル"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1150011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_115001.png",
+      "sourceIconPath": "Item_115001",
+      "source_url": "game://item/115001"
+    },
+    {
+      "id": "115002",
+      "name": "Mystic Topaz",
+      "names": {
+        "en": "Mystic Topaz",
+        "ja": "ミスティックトパーズ"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1150021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_115002.png",
+      "sourceIconPath": "Item_115002",
+      "source_url": "game://item/115002"
+    },
+    {
+      "id": "115003",
+      "name": "Enchanted Ruby",
+      "names": {
+        "en": "Enchanted Ruby",
+        "ja": "エンチャントルビー"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1150031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_115003.png",
+      "sourceIconPath": "Item_115003",
+      "source_url": "game://item/115003"
+    },
+    {
+      "id": "115004",
+      "name": "Starlight Sapphire",
+      "names": {
+        "en": "Starlight Sapphire",
+        "ja": "星光のサファイア"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1150041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_115004.png",
+      "sourceIconPath": "Item_115004",
+      "source_url": "game://item/115004"
+    },
+    {
+      "id": "116001",
+      "name": "Void Opal",
+      "names": {
+        "en": "Void Opal",
+        "ja": "虚空のオパール"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1160011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_116001.png",
+      "sourceIconPath": "Item_116001",
+      "source_url": "game://item/116001"
+    },
+    {
+      "id": "116002",
+      "name": "Astral Diamond",
+      "names": {
+        "en": "Astral Diamond",
+        "ja": "アストラルダイヤ"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1160021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_116002.png",
+      "sourceIconPath": "Item_116002",
+      "source_url": "game://item/116002"
+    },
+    {
+      "id": "116003",
+      "name": "Phantom Emerald",
+      "names": {
+        "en": "Phantom Emerald",
+        "ja": "ファントムエメラルド"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1160031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_116003.png",
+      "sourceIconPath": "Item_116003",
+      "source_url": "game://item/116003"
+    },
+    {
+      "id": "116004",
+      "name": "Twilight Amethyst",
+      "names": {
+        "en": "Twilight Amethyst",
+        "ja": "トワイライトアメジスト"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1160041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_116004.png",
+      "sourceIconPath": "Item_116004",
+      "source_url": "game://item/116004"
+    },
+    {
+      "id": "117001",
+      "name": "Celestial Pearl",
+      "names": {
+        "en": "Celestial Pearl",
+        "ja": "セレスティアルパール"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1170011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_117001.png",
+      "sourceIconPath": "Item_117001",
+      "source_url": "game://item/117001"
+    },
+    {
+      "id": "117002",
+      "name": "Dragonite Crystal",
+      "names": {
+        "en": "Dragonite Crystal",
+        "ja": "ドラゴナイトクリスタル"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1170021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_117002.png",
+      "sourceIconPath": "Item_117002",
+      "source_url": "game://item/117002"
+    },
+    {
+      "id": "118001",
+      "name": "Void Crystal",
+      "names": {
+        "en": "Void Crystal",
+        "ja": "ヴォイドクリスタル"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1180011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_118001.png",
+      "sourceIconPath": "Item_118001",
+      "source_url": "game://item/118001"
+    },
+    {
+      "id": "118002",
+      "name": "Abyssal Pearl",
+      "names": {
+        "en": "Abyssal Pearl",
+        "ja": "深淵の真珠"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1180021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_118002.png",
+      "sourceIconPath": "Item_118002",
+      "source_url": "game://item/118002"
+    },
+    {
+      "id": "119001",
+      "name": "Ethereal Gem",
+      "names": {
+        "en": "Ethereal Gem",
+        "ja": "エーテルジェム"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1190011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_119001.png",
+      "sourceIconPath": "Item_119001",
+      "source_url": "game://item/119001"
+    },
+    {
+      "id": "119002",
+      "name": "Chaos Diamond",
+      "names": {
+        "en": "Chaos Diamond",
+        "ja": "混沌のダイヤモンド"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "DECORATION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1190021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_119002.png",
+      "sourceIconPath": "Item_119002",
+      "source_url": "game://item/119002"
+    },
+    {
+      "id": "120001",
+      "name": "Goblin Hide",
+      "names": {
+        "en": "Goblin Hide",
+        "ja": "ゴブリンの皮"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1200011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_120001.png",
+      "sourceIconPath": "Item_120001",
+      "source_url": "game://item/120001"
+    },
+    {
+      "id": "120002",
+      "name": "Skeleton Bone",
+      "names": {
+        "en": "Skeleton Bone",
+        "ja": "スケルトンボーン"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1200021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_120002.png",
+      "sourceIconPath": "Item_120002",
+      "source_url": "game://item/120002"
+    },
+    {
+      "id": "120003",
+      "name": "Slime Jelly",
+      "names": {
+        "en": "Slime Jelly",
+        "ja": "スライムゼリー"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1200031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_120003.png",
+      "sourceIconPath": "Item_120003",
+      "source_url": "game://item/120003"
+    },
+    {
+      "id": "121001",
+      "name": "Wolf Fang",
+      "names": {
+        "en": "Wolf Fang",
+        "ja": "ウルフファング"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1210011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_121001.png",
+      "sourceIconPath": "Item_121001",
+      "source_url": "game://item/121001"
+    },
+    {
+      "id": "121002",
+      "name": "Spider Silk",
+      "names": {
+        "en": "Spider Silk",
+        "ja": "スパイダーシルク"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1210021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_121002.png",
+      "sourceIconPath": "Item_121002",
+      "source_url": "game://item/121002"
+    },
+    {
+      "id": "121003",
+      "name": "Poisonous Herb",
+      "names": {
+        "en": "Poisonous Herb",
+        "ja": "毒草"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1210031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_121003.png",
+      "sourceIconPath": "Item_121003",
+      "source_url": "game://item/121003"
+    },
+    {
+      "id": "121004",
+      "name": "Healing Herb",
+      "names": {
+        "en": "Healing Herb",
+        "ja": "癒しの薬草"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1210041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_121004.png",
+      "sourceIconPath": "Item_121004",
+      "source_url": "game://item/121004"
+    },
+    {
+      "id": "122001",
+      "name": "Bat Wing Membrane",
+      "names": {
+        "en": "Bat Wing Membrane",
+        "ja": "コウモリの翼膜"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1220011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_122001.png",
+      "sourceIconPath": "Item_122001",
+      "source_url": "game://item/122001"
+    },
+    {
+      "id": "122002",
+      "name": "Ogre Blood",
+      "names": {
+        "en": "Ogre Blood",
+        "ja": "オーガブラッド"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1220021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_122002.png",
+      "sourceIconPath": "Item_122002",
+      "source_url": "game://item/122002"
+    },
+    {
+      "id": "122003",
+      "name": "Mushroom Spore",
+      "names": {
+        "en": "Mushroom Spore",
+        "ja": "キノコの胞子"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1220031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_122003.png",
+      "sourceIconPath": "Item_122003",
+      "source_url": "game://item/122003"
+    },
+    {
+      "id": "122004",
+      "name": "Ancient Tree Sap",
+      "names": {
+        "en": "Ancient Tree Sap",
+        "ja": "古代樹の樹液"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1220041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_122004.png",
+      "sourceIconPath": "Item_122004",
+      "source_url": "game://item/122004"
+    },
+    {
+      "id": "123001",
+      "name": "Skull",
+      "names": {
+        "en": "Skull",
+        "ja": "スカル"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1230011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_123001.png",
+      "sourceIconPath": "Item_123001",
+      "source_url": "game://item/123001"
+    },
+    {
+      "id": "123002",
+      "name": "Harpy Feather",
+      "names": {
+        "en": "Harpy Feather",
+        "ja": "ハーピーの羽"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1230021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_123002.png",
+      "sourceIconPath": "Item_123002",
+      "source_url": "game://item/123002"
+    },
+    {
+      "id": "123003",
+      "name": "Mandrake Root",
+      "names": {
+        "en": "Mandrake Root",
+        "ja": "マンドレイクの根"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1230031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_123003.png",
+      "sourceIconPath": "Item_123003",
+      "source_url": "game://item/123003"
+    },
+    {
+      "id": "123004",
+      "name": "Nightshade Extract",
+      "names": {
+        "en": "Nightshade Extract",
+        "ja": "ナイトシェードエキス"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1230041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_123004.png",
+      "sourceIconPath": "Item_123004",
+      "source_url": "game://item/123004"
+    },
+    {
+      "id": "124001",
+      "name": "Basilisk Scale",
+      "names": {
+        "en": "Basilisk Scale",
+        "ja": "バジリスクの鱗"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1240011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_124001.png",
+      "sourceIconPath": "Item_124001",
+      "source_url": "game://item/124001"
+    },
+    {
+      "id": "124002",
+      "name": "Wyvern Claw",
+      "names": {
+        "en": "Wyvern Claw",
+        "ja": "ワイバーンの爪"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1240021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_124002.png",
+      "sourceIconPath": "Item_124002",
+      "source_url": "game://item/124002"
+    },
+    {
+      "id": "124003",
+      "name": "Dice",
+      "names": {
+        "en": "Dice",
+        "ja": "ダイス"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1240031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_124003.png",
+      "sourceIconPath": "Item_124003",
+      "source_url": "game://item/124003"
+    },
+    {
+      "id": "124004",
+      "name": "Demon Blood",
+      "names": {
+        "en": "Demon Blood",
+        "ja": "デーモンブラッド"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1240041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_124004.png",
+      "sourceIconPath": "Item_124004",
+      "source_url": "game://item/124004"
+    },
+    {
+      "id": "125001",
+      "name": "Minotaur Horn",
+      "names": {
+        "en": "Minotaur Horn",
+        "ja": "ミノタウロスの角"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1250011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_125001.png",
+      "sourceIconPath": "Item_125001",
+      "source_url": "game://item/125001"
+    },
+    {
+      "id": "125002",
+      "name": "Griffin Beak",
+      "names": {
+        "en": "Griffin Beak",
+        "ja": "グリフィンのくちばし"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1250021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_125002.png",
+      "sourceIconPath": "Item_125002",
+      "source_url": "game://item/125002"
+    },
+    {
+      "id": "125003",
+      "name": "Phoenix Ash",
+      "names": {
+        "en": "Phoenix Ash",
+        "ja": "フェニックスの灰"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1250031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_125003.png",
+      "sourceIconPath": "Item_125003",
+      "source_url": "game://item/125003"
+    },
+    {
+      "id": "125004",
+      "name": "Dragon Bile",
+      "names": {
+        "en": "Dragon Bile",
+        "ja": "ドラゴンの胆汁"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1250041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_125004.png",
+      "sourceIconPath": "Item_125004",
+      "source_url": "game://item/125004"
+    },
+    {
+      "id": "126001",
+      "name": "Wraith Essence",
+      "names": {
+        "en": "Wraith Essence",
+        "ja": "レイスの精髄"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1260011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_126001.png",
+      "sourceIconPath": "Item_126001",
+      "source_url": "game://item/126001"
+    },
+    {
+      "id": "126002",
+      "name": "Kraken Ink",
+      "names": {
+        "en": "Kraken Ink",
+        "ja": "クラーケンインク"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1260021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_126002.png",
+      "sourceIconPath": "Item_126002",
+      "source_url": "game://item/126002"
+    },
+    {
+      "id": "126003",
+      "name": "Titan Marrow",
+      "names": {
+        "en": "Titan Marrow",
+        "ja": "タイタンマロウ"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1260031"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_126003.png",
+      "sourceIconPath": "Item_126003",
+      "source_url": "game://item/126003"
+    },
+    {
+      "id": "126004",
+      "name": "Void Ichor",
+      "names": {
+        "en": "Void Ichor",
+        "ja": "ヴォイドの精髄"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1260041"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_126004.png",
+      "sourceIconPath": "Item_126004",
+      "source_url": "game://item/126004"
+    },
+    {
+      "id": "127001",
+      "name": "Abyssal Mucus",
+      "names": {
+        "en": "Abyssal Mucus",
+        "ja": "深淵の粘液"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1270011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_127001.png",
+      "sourceIconPath": "Item_127001",
+      "source_url": "game://item/127001"
+    },
+    {
+      "id": "127002",
+      "name": "Chaos Spore",
+      "names": {
+        "en": "Chaos Spore",
+        "ja": "カオススポア"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1270021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_127002.png",
+      "sourceIconPath": "Item_127002",
+      "source_url": "game://item/127002"
+    },
+    {
+      "id": "128001",
+      "name": "Primordial Sap",
+      "names": {
+        "en": "Primordial Sap",
+        "ja": "原初の樹液"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1280011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_128001.png",
+      "sourceIconPath": "Item_128001",
+      "source_url": "game://item/128001"
+    },
+    {
+      "id": "128002",
+      "name": "Eldritch Venom",
+      "names": {
+        "en": "Eldritch Venom",
+        "ja": "異界の毒"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1280021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_128002.png",
+      "sourceIconPath": "Item_128002",
+      "source_url": "game://item/128002"
+    },
+    {
+      "id": "129001",
+      "name": "Chaso Dice",
+      "names": {
+        "en": "Chaso Dice",
+        "ja": "チャソダイス"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1290011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_129001.png",
+      "sourceIconPath": "Item_129001",
+      "source_url": "game://item/129001"
+    },
+    {
+      "id": "129002",
+      "name": "Void Tendril",
+      "names": {
+        "en": "Void Tendril",
+        "ja": "ヴォイドの触手"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "ENGRAVING",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1290021"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_129002.png",
+      "sourceIconPath": "Item_129002",
+      "source_url": "game://item/129002"
+    },
+    {
+      "id": "130001",
+      "name": "Scroll of Common Inscription",
+      "names": {
+        "en": "Scroll of Common Inscription",
+        "ja": "一般刻文の巻物"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1300011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_130001.png",
+      "sourceIconPath": "Item_130001",
+      "source_url": "game://item/130001"
+    },
+    {
+      "id": "131001",
+      "name": "Scroll of Uncommon Inscription",
+      "names": {
+        "en": "Scroll of Uncommon Inscription",
+        "ja": "アンコモン刻印の巻物"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1310011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_131001.png",
+      "sourceIconPath": "Item_131001",
+      "source_url": "game://item/131001"
+    },
+    {
+      "id": "132001",
+      "name": "Scroll of Rare Inscription",
+      "names": {
+        "en": "Scroll of Rare Inscription",
+        "ja": "レア刻印の巻物"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1320011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_132001.png",
+      "sourceIconPath": "Item_132001",
+      "source_url": "game://item/132001"
+    },
+    {
+      "id": "133001",
+      "name": "Scroll of Legendary Inscription",
+      "names": {
+        "en": "Scroll of Legendary Inscription",
+        "ja": "伝説の刻印の巻物"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1330011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_133001.png",
+      "sourceIconPath": "Item_133001",
+      "source_url": "game://item/133001"
+    },
+    {
+      "id": "134001",
+      "name": "Scroll of Immortal Inscription",
+      "names": {
+        "en": "Scroll of Immortal Inscription",
+        "ja": "不滅の刻文の巻物"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1340011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_134001.png",
+      "sourceIconPath": "Item_134001",
+      "source_url": "game://item/134001"
+    },
+    {
+      "id": "135001",
+      "name": "Scroll of Arcana Inscription",
+      "names": {
+        "en": "Scroll of Arcana Inscription",
+        "ja": "アルカナ刻印の巻物"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1350011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_135001.png",
+      "sourceIconPath": "Item_135001",
+      "source_url": "game://item/135001"
+    },
+    {
+      "id": "136001",
+      "name": "Scroll of Beyond Inscription",
+      "names": {
+        "en": "Scroll of Beyond Inscription",
+        "ja": "超越銘文の巻物"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1360011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_136001.png",
+      "sourceIconPath": "Item_136001",
+      "source_url": "game://item/136001"
+    },
+    {
+      "id": "137001",
+      "name": "Scroll of Celestial Inscription",
+      "names": {
+        "en": "Scroll of Celestial Inscription",
+        "ja": "天界文字の巻物"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1370011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_137001.png",
+      "sourceIconPath": "Item_137001",
+      "source_url": "game://item/137001"
+    },
+    {
+      "id": "138001",
+      "name": "Scroll of Divine Inscription",
+      "names": {
+        "en": "Scroll of Divine Inscription",
+        "ja": "神聖刻印の巻物"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1380011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_138001.png",
+      "sourceIconPath": "Item_138001",
+      "source_url": "game://item/138001"
+    },
+    {
+      "id": "139001",
+      "name": "Scroll of Cosmic Inscription",
+      "names": {
+        "en": "Scroll of Cosmic Inscription",
+        "ja": "宇宙刻文の巻物"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "INSCRIPTION",
+      "material_effects": [
+        {
+          "stat_mod_group_key": "1390011"
+        }
+      ],
+      "imagePath": "/assets/items/icons/Item_139001.png",
+      "sourceIconPath": "Item_139001",
+      "source_url": "game://item/139001"
+    },
+    {
+      "id": "140001",
+      "name": "Wood",
+      "names": {
+        "en": "Wood",
+        "ja": "木材"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_140001.png",
+      "sourceIconPath": "Item_140001",
+      "source_url": "game://item/140001"
+    },
+    {
+      "id": "140002",
+      "name": "Stone",
+      "names": {
+        "en": "Stone",
+        "ja": "ストーン"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_140002.png",
+      "sourceIconPath": "Item_140002",
+      "source_url": "game://item/140002"
+    },
+    {
+      "id": "140003",
+      "name": "Leather",
+      "names": {
+        "en": "Leather",
+        "ja": "レザー"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_140003.png",
+      "sourceIconPath": "Item_140003",
+      "source_url": "game://item/140003"
+    },
+    {
+      "id": "140004",
+      "name": "Copper Nugget",
+      "names": {
+        "en": "Copper Nugget",
+        "ja": "銅の塊"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_140004.png",
+      "sourceIconPath": "Item_140004",
+      "source_url": "game://item/140004"
+    },
+    {
+      "id": "141001",
+      "name": "Bronze Ingot",
+      "names": {
+        "en": "Bronze Ingot",
+        "ja": "ブロンズインゴット"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_141001.png",
+      "sourceIconPath": "Item_141001",
+      "source_url": "game://item/141001"
+    },
+    {
+      "id": "141002",
+      "name": "Iron Ingot",
+      "names": {
+        "en": "Iron Ingot",
+        "ja": "鉄のインゴット"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_141002.png",
+      "sourceIconPath": "Item_141002",
+      "source_url": "game://item/141002"
+    },
+    {
+      "id": "142001",
+      "name": "Silver Ingot",
+      "names": {
+        "en": "Silver Ingot",
+        "ja": "銀のインゴット"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_142001.png",
+      "sourceIconPath": "Item_142001",
+      "source_url": "game://item/142001"
+    },
+    {
+      "id": "142002",
+      "name": "Gold Ingot",
+      "names": {
+        "en": "Gold Ingot",
+        "ja": "金のインゴット"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_142002.png",
+      "sourceIconPath": "Item_142002",
+      "source_url": "game://item/142002"
+    },
+    {
+      "id": "143001",
+      "name": "Stardust Ingot",
+      "names": {
+        "en": "Stardust Ingot",
+        "ja": "スターダストインゴット"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_143001.png",
+      "sourceIconPath": "Item_143001",
+      "source_url": "game://item/143001"
+    },
+    {
+      "id": "143002",
+      "name": "Void Iron",
+      "names": {
+        "en": "Void Iron",
+        "ja": "ヴォイドアイアン"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_143002.png",
+      "sourceIconPath": "Item_143002",
+      "source_url": "game://item/143002"
+    },
+    {
+      "id": "144001",
+      "name": "Bloodstone",
+      "names": {
+        "en": "Bloodstone",
+        "ja": "ブラッドストーン"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_144001.png",
+      "sourceIconPath": "Item_144001",
+      "source_url": "game://item/144001"
+    },
+    {
+      "id": "144002",
+      "name": "Thunderstone",
+      "names": {
+        "en": "Thunderstone",
+        "ja": "サンダーストーン"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_144002.png",
+      "sourceIconPath": "Item_144002",
+      "source_url": "game://item/144002"
+    },
+    {
+      "id": "145001",
+      "name": "Chaos Shard",
+      "names": {
+        "en": "Chaos Shard",
+        "ja": "カオスシャード"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_145001.png",
+      "sourceIconPath": "Item_145001",
+      "source_url": "game://item/145001"
+    },
+    {
+      "id": "145002",
+      "name": "Arcane Ore",
+      "names": {
+        "en": "Arcane Ore",
+        "ja": "アーケイン鉱石"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_145002.png",
+      "sourceIconPath": "Item_145002",
+      "source_url": "game://item/145002"
+    },
+    {
+      "id": "146001",
+      "name": "Darksteel Ingot",
+      "names": {
+        "en": "Darksteel Ingot",
+        "ja": "ダークスチールインゴット"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_146001.png",
+      "sourceIconPath": "Item_146001",
+      "source_url": "game://item/146001"
+    },
+    {
+      "id": "146002",
+      "name": "Orichalcum Ore",
+      "names": {
+        "en": "Orichalcum Ore",
+        "ja": "オリハルコン鉱石"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_146002.png",
+      "sourceIconPath": "Item_146002",
+      "source_url": "game://item/146002"
+    },
+    {
+      "id": "147001",
+      "name": "Moonstone",
+      "names": {
+        "en": "Moonstone",
+        "ja": "月長石"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_147001.png",
+      "sourceIconPath": "Item_147001",
+      "source_url": "game://item/147001"
+    },
+    {
+      "id": "147002",
+      "name": "Sunstone",
+      "names": {
+        "en": "Sunstone",
+        "ja": "サンストーン"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_147002.png",
+      "sourceIconPath": "Item_147002",
+      "source_url": "game://item/147002"
+    },
+    {
+      "id": "148001",
+      "name": "Mithril Ore",
+      "names": {
+        "en": "Mithril Ore",
+        "ja": "ミスリル鉱石"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_148001.png",
+      "sourceIconPath": "Item_148001",
+      "source_url": "game://item/148001"
+    },
+    {
+      "id": "148002",
+      "name": "Ethereal Ingot",
+      "names": {
+        "en": "Ethereal Ingot",
+        "ja": "エーテルインゴット"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_148002.png",
+      "sourceIconPath": "Item_148002",
+      "source_url": "game://item/148002"
+    },
+    {
+      "id": "149001",
+      "name": "Adamantium Ore",
+      "names": {
+        "en": "Adamantium Ore",
+        "ja": "アダマンティウム鉱石"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_149001.png",
+      "sourceIconPath": "Item_149001",
+      "source_url": "game://item/149001"
+    },
+    {
+      "id": "149002",
+      "name": "Aeon Ingot",
+      "names": {
+        "en": "Aeon Ingot",
+        "ja": "エオンインゴット"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_149002.png",
+      "sourceIconPath": "Item_149002",
+      "source_url": "game://item/149002"
+    },
+    {
+      "id": "150001",
+      "name": "ItemName_150001",
+      "names": {
+        "en": "ItemName_150001",
+        "ja": "ItemName_150001"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150001.png",
+      "sourceIconPath": "Item_150001",
+      "source_url": "game://item/150001"
+    },
+    {
+      "id": "150002",
+      "name": "ItemName_150002",
+      "names": {
+        "en": "ItemName_150002",
+        "ja": "ItemName_150002"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150001.png",
+      "sourceIconPath": "Item_150001",
+      "source_url": "game://item/150002"
+    },
+    {
+      "id": "150003",
+      "name": "ItemName_150003",
+      "names": {
+        "en": "ItemName_150003",
+        "ja": "ItemName_150003"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150001.png",
+      "sourceIconPath": "Item_150001",
+      "source_url": "game://item/150003"
+    },
+    {
+      "id": "150004",
+      "name": "ItemName_150004",
+      "names": {
+        "en": "ItemName_150004",
+        "ja": "ItemName_150004"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150001.png",
+      "sourceIconPath": "Item_150001",
+      "source_url": "game://item/150004"
+    },
+    {
+      "id": "150005",
+      "name": "ItemName_150005",
+      "names": {
+        "en": "ItemName_150005",
+        "ja": "ItemName_150005"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150005.png",
+      "sourceIconPath": "Item_150005",
+      "source_url": "game://item/150005"
+    },
+    {
+      "id": "150006",
+      "name": "ItemName_150006",
+      "names": {
+        "en": "ItemName_150006",
+        "ja": "ItemName_150006"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150005.png",
+      "sourceIconPath": "Item_150005",
+      "source_url": "game://item/150006"
+    },
+    {
+      "id": "150007",
+      "name": "ItemName_150007",
+      "names": {
+        "en": "ItemName_150007",
+        "ja": "ItemName_150007"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150005.png",
+      "sourceIconPath": "Item_150005",
+      "source_url": "game://item/150007"
+    },
+    {
+      "id": "150008",
+      "name": "ItemName_150008",
+      "names": {
+        "en": "ItemName_150008",
+        "ja": "ItemName_150008"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150008.png",
+      "sourceIconPath": "Item_150008",
+      "source_url": "game://item/150008"
+    },
+    {
+      "id": "150009",
+      "name": "ItemName_150009",
+      "names": {
+        "en": "ItemName_150009",
+        "ja": "ItemName_150009"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150008.png",
+      "sourceIconPath": "Item_150008",
+      "source_url": "game://item/150009"
+    },
+    {
+      "id": "150010",
+      "name": "ItemName_150010",
+      "names": {
+        "en": "ItemName_150010",
+        "ja": "ItemName_150010"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "CRAFTING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_150008.png",
+      "sourceIconPath": "Item_150008",
+      "source_url": "game://item/150010"
+    },
+    {
+      "id": "160001",
+      "name": "Kingdom 1st Anniversary Coin",
+      "names": {
+        "en": "Kingdom 1st Anniversary Coin",
+        "ja": "王国1周年記念コイン"
+      },
+      "rarity": "Common",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160001.png",
+      "sourceIconPath": "Item_160001",
+      "source_url": "game://item/160001"
+    },
+    {
+      "id": "160002",
+      "name": "Empire 1st Anniversary Coin",
+      "names": {
+        "en": "Empire 1st Anniversary Coin",
+        "ja": "帝国建国1周年記念コイン"
+      },
+      "rarity": "Uncommon",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160002.png",
+      "sourceIconPath": "Item_160002",
+      "source_url": "game://item/160002"
+    },
+    {
+      "id": "160003",
+      "name": "Kingdom 10th Anniversary Coin",
+      "names": {
+        "en": "Kingdom 10th Anniversary Coin",
+        "ja": "王国10周年記念コイン"
+      },
+      "rarity": "Rare",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160003.png",
+      "sourceIconPath": "Item_160003",
+      "source_url": "game://item/160003"
+    },
+    {
+      "id": "160004",
+      "name": "Empire 10th Anniversary Coin",
+      "names": {
+        "en": "Empire 10th Anniversary Coin",
+        "ja": "帝国建国10周年記念コイン"
+      },
+      "rarity": "Legendary",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160004.png",
+      "sourceIconPath": "Item_160004",
+      "source_url": "game://item/160004"
+    },
+    {
+      "id": "160005",
+      "name": "Kingdom 50th Anniversary Coin",
+      "names": {
+        "en": "Kingdom 50th Anniversary Coin",
+        "ja": "王国50周年記念コイン"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160005.png",
+      "sourceIconPath": "Item_160005",
+      "source_url": "game://item/160005"
+    },
+    {
+      "id": "160006",
+      "name": "Empire 50th Anniversary Coin",
+      "names": {
+        "en": "Empire 50th Anniversary Coin",
+        "ja": "帝国建国50周年記念コイン"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160006.png",
+      "sourceIconPath": "Item_160006",
+      "source_url": "game://item/160006"
+    },
+    {
+      "id": "160007",
+      "name": "Kingdom 100th Anniversary Coin",
+      "names": {
+        "en": "Kingdom 100th Anniversary Coin",
+        "ja": "王国100周年記念コイン"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160007.png",
+      "sourceIconPath": "Item_160007",
+      "source_url": "game://item/160007"
+    },
+    {
+      "id": "160008",
+      "name": "Empire 100th Anniversary Coin",
+      "names": {
+        "en": "Empire 100th Anniversary Coin",
+        "ja": "帝国百周年記念コイン"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160008.png",
+      "sourceIconPath": "Item_160008",
+      "source_url": "game://item/160008"
+    },
+    {
+      "id": "160009",
+      "name": "Sacred Kingdom 1000th Anniversary Coin",
+      "names": {
+        "en": "Sacred Kingdom 1000th Anniversary Coin",
+        "ja": "聖王国1000周年記念コイン"
+      },
+      "rarity": "Divine",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160009.png",
+      "sourceIconPath": "Item_160009",
+      "source_url": "game://item/160009"
+    },
+    {
+      "id": "160010",
+      "name": "Eternal Empire 1000th Anniversary Coin",
+      "names": {
+        "en": "Eternal Empire 1000th Anniversary Coin",
+        "ja": "永遠帝国1000周年記念コイン"
+      },
+      "rarity": "Cosmic",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "OFFERING",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_160010.png",
+      "sourceIconPath": "Item_160010",
+      "source_url": "game://item/160010"
+    },
+    {
+      "id": "190001",
+      "name": "Soulstone - Normal",
+      "names": {
+        "en": "Soulstone - Normal",
+        "ja": "ソウルストーン - ノーマル"
+      },
+      "rarity": "Immortal",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "SOULSTONE",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_190001.png",
+      "sourceIconPath": "Item_190001",
+      "source_url": "game://item/190001"
+    },
+    {
+      "id": "190002",
+      "name": "Soulstone - Nightmare",
+      "names": {
+        "en": "Soulstone - Nightmare",
+        "ja": "ソウルストーン - ナイトメア"
+      },
+      "rarity": "Arcana",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "SOULSTONE",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_190002.png",
+      "sourceIconPath": "Item_190002",
+      "source_url": "game://item/190002"
+    },
+    {
+      "id": "190003",
+      "name": "Soulstone - Hell",
+      "names": {
+        "en": "Soulstone - Hell",
+        "ja": "ソウルストーン - ヘル"
+      },
+      "rarity": "Beyond",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "SOULSTONE",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_190003.png",
+      "sourceIconPath": "Item_190003",
+      "source_url": "game://item/190003"
+    },
+    {
+      "id": "190004",
+      "name": "Soulstone - Torment",
+      "names": {
+        "en": "Soulstone - Torment",
+        "ja": "ソウルストーン - トーメント"
+      },
+      "rarity": "Celestial",
+      "item_kind": "Material",
+      "level": null,
+      "gear_type": null,
+      "gear_slot": null,
+      "hero_class": null,
+      "market_tradable": true,
+      "stats": {},
+      "material_effect_type": "SOULSTONE",
+      "material_effects": [],
+      "imagePath": "/assets/items/icons/Item_190004.png",
+      "sourceIconPath": "Item_190004",
+      "source_url": "game://item/190004"
+    }
+  ]
+}

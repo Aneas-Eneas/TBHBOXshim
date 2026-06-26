@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.unitypy_vendor/
+.codex/
+.codex_tools/
+.agents/
+tmp/
+
+*.log
+.DS_Store
+Thumbs.db
