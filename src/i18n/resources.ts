@@ -102,7 +102,7 @@ export const resources = {
         probabilityIntro: "Compare drop group probabilities and item pools by chest.",
         aboutTitle: "このシミュレーターについて",
         privacyTitle: "Privacy Policy",
-        disclaimerTitle: "Disclaimer",
+        disclaimerTitle: "免責事項",
         contactTitle: "Contact",
         categoryCard: "Drop table, stage references, and simulator.",
       },
@@ -112,7 +112,7 @@ export const resources = {
         privacy:
           "This site does not require accounts, login, or user registration.\n\nThe simulator runs with static files in the browser. It does not send chest opening results, selected boxes, or item results to a game server.\n\nThis site uses Google AdSense to display advertisements. Google and its partners may use cookies or similar technologies to serve ads, measure ad performance, prevent fraud, and show personalized or non-personalized ads depending on your region and consent settings.\n\nFor visitors in regions where consent is required, this site may show a Google-certified consent message. You can manage your ad consent choices through that message where available.\n\nYou can learn how Google uses information from sites that use its services here: https://policies.google.com/technologies/partner-sites\n\nYou can manage Google ad personalization here: https://adssettings.google.com/",
         disclaimer:
-          "This site is an unofficial fan-made simulator and is not affiliated with, endorsed by, sponsored by, or operated by the Task Bar Hero developer or publisher.\n\nGame names, item names, images, and related data belong to their respective rights holders. They are used only to identify game content for reference and simulation purposes.\n\nThe data on this site is generated from permitted local game files and may contain mistakes, omissions, or become outdated after game updates.\n\nOpening results are random simulations based on local static data and may differ from actual in-game behavior, future updates, or server-side changes.\n\nThis site is provided for informational and entertainment purposes only. The site maintainer is not responsible for losses, damages, or decisions made based on simulator results.",
+          "このサイトは非公式のファンメイドシミュレーターであり、Task Bar Hero の開発元または運営元による公式サービスではありません。また、開発元・運営元から後援、承認、運営されているものではありません。\n\nゲーム名、アイテム名、画像、関連データなどの権利は、それぞれの権利者に帰属します。これらはゲーム内容を識別し、参考情報とシミュレーションを提供する目的で使用しています。\n\nこのサイトのデータは、ローカルゲームファイルから生成したものですが、誤り、欠落、またはゲームアップデートによる情報の古さが含まれる場合があります。\n\n開封結果はローカルの静的データに基づくランダムなシミュレーションです。実際のゲーム内挙動、今後のアップデート、サーバー側の変更と異なる場合があります。\n\nこのサイトは情報提供および娯楽目的で提供されています。シミュレーション結果に基づく判断、損失、損害について、サイト管理者は責任を負いません。\n\nこのサイトは外部サイトへのリンクが含まれている場合があります。それらコンテンツまたはプライバシーについて、サイト管理者は責任を負いません。",
         contact:
           "For correction requests, bug reports, data issues, or rights-related inquiries, please contact the site maintainer on X.\n\nX: https://x.com/Eneas_Tarkover\n\nWhen reporting a data issue, include the box name, difficulty, ACT, stage, and the item or probability that appears incorrect.",
       },
@@ -231,7 +231,7 @@ export const resources = {
         privacy:
           "このサイトは、アカウント登録、ログイン、ユーザー登録を必要としません。\n\n開封結果、選択した宝箱、表示されたアイテム結果などをゲームサーバーへ送信することはありません。サイトはブラウザ上で静的ファイルを読み込んで動作します。\n\nこのサイトでは広告配信のために Google AdSense を使用しています。Google およびそのパートナーは、広告の配信、広告効果の測定、不正防止、地域や同意設定に応じたパーソナライズ広告または非パーソナライズ広告の表示のため、Cookie または類似技術を使用する場合があります。\n\n同意が必要な地域からアクセスした利用者には、Google 認定の同意メッセージが表示される場合があります。表示された場合は、そのメッセージから広告に関する同意設定を管理できます。\n\nGoogle がサービスを利用するサイトから取得した情報をどのように使用するかについては、以下をご確認ください。\nhttps://policies.google.com/technologies/partner-sites\n\nGoogle の広告パーソナライズ設定は以下から管理できます。\nhttps://adssettings.google.com/",
         disclaimer:
-          "このサイトは非公式のファンメイドシミュレーターであり、Task Bar Hero の開発元または運営元による公式サービスではありません。また、開発元・運営元から後援、承認、運営されているものではありません。\n\nゲーム名、アイテム名、画像、関連データなどの権利は、それぞれの権利者に帰属します。これらはゲーム内容を識別し、参考情報とシミュレーションを提供する目的で使用しています。\n\nこのサイトのデータは、許可済みのローカルゲームファイルから生成したものですが、誤り、欠落、またはゲームアップデートによる情報の古さが含まれる場合があります。\n\n開封結果はローカルの静的データに基づくランダムなシミュレーションです。実際のゲーム内挙動、今後のアップデート、サーバー側の変更と異なる場合があります。\n\nこのサイトは情報提供および娯楽目的で提供されています。シミュレーション結果に基づく判断、損失、損害について、サイト管理者は責任を負いません。",
+          "このサイトは非公式のファンメイドシミュレーターであり、Task Bar Hero の開発元または運営元による公式サービスではありません。また、開発元・運営元から後援、承認、運営されているものではありません。\n\nゲーム名、アイテム名、画像、関連データなどの権利は、それぞれの権利者に帰属します。これらはゲーム内容を識別し、参考情報とシミュレーションを提供する目的で使用しています。\n\nこのサイトのデータは、ローカルゲームファイルから生成したものですが、誤り、欠落、またはゲームアップデートによる情報の古さが含まれる場合があります。\n\n開封結果はローカルの静的データに基づくランダムなシミュレーションです。実際のゲーム内挙動、今後のアップデート、サーバー側の変更と異なる場合があります。\n\nこのサイトは情報提供および娯楽目的で提供されています。シミュレーション結果に基づく判断、損失、損害について、サイト管理者は責任を負いません。\n\nこのサイトは外部サイトへのリンクが含まれている場合があります。それらコンテンツまたはプライバシーについて、サイト管理者は責任を負いません。",
         contact:
           "修正依頼、不具合報告、データの誤り、権利関連のお問い合わせは、サイト管理者のXまでご連絡ください。\n\nX: https://x.com/Eneas_Tarkover\n\nデータの誤りについて連絡する場合は、宝箱名、難易度、ACT、ステージ、該当アイテムまたは確率の内容を添えてください。",
       },
